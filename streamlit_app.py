@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import pandas_bokeh
 from sklearn.datasets import load_wine
+import yfinance as yf
 
 st.set_page_config(layout='wide')
 
