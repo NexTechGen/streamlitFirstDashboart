@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import pndas_bokeh
+import pandas_bokeh
 from sklearn.datasets import load_wine
 
 st.set_page_config(layout='wide')
